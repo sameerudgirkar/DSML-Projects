@@ -978,6 +978,11 @@ plt.show()
 # 
 # - Education level is directly correlated with income as highlighted in the pairplot and correlation heatmap above, so highly educated indviduals are more likely to purchase the more expensive model.The sales team should focus on this aspect.
 # 
+# Business Recommendation for KP481:
+# 
+# - **Among the low to moderate income groups, KP481 is more preferred over KP281 in terms of usage per week i.e 2-4 times/week. If the salesman, gets such insights from the customers willing to purchase treadmills,  he/she should definitely pitch in the moderate range (KP481) product. If the insights are w.r.t fitness and the person is moderately fir (2-4), then also, the salesman should pitch in for KP481 as it's most appealing as it has more features than basic one and less expensive than the advance one. The overall sales should focus on how to increase the market cap of this moderate ranged product so that the company will earn more rather than focusing on the basic one. This is evident from the calculations of total units sold and revenue earned by company for KP481 is USD 105000, which is nearly equal to (KP781) whose revenue  is USD 100000, given the units sold for KP481 are 20 more than KP781.
+# So to conclude, the target for the company should be to increase the overall percentage for KP481 and make it highest selling product and with the given  statistics, it's bound to boost the income for Aerofit in long run.**
+# 
 # 
 # 
 # **1. KP281**
